@@ -1,4 +1,4 @@
-# MatFigGeneration
+# MatFigSetting
 Just mark for convenient usage.
 
 * Reference
